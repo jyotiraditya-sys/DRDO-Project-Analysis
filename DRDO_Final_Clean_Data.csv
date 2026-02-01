@@ -1,0 +1,102 @@
+Project_ID,Project_Name,Category,Budget,Status,Completion_Percentage,Lab_Location,Start_date,Risk_Level,Priority
+DRDO-101,Agni-P Missile,Missiles,4500,Testing,0.85,Balasore,12/1/2021,High,Strategic
+DRDO-102,LCA Tejas Mk2,Aeronautics,12500,Ongoing,0.4,Bangalore,15-03-2022,High,Strategic
+DRDO-103,Pinaka ER,Armaments,1200,Completed,1,Pune,20-05-2020,Low,Tactical
+DRDO-104,INS Arihant Upgrade,Naval,8500,Ongoing,0.55,Visakhapatnam,10/6/2021,High,Strategic
+DRDO-105,Akash-NG,Missiles,3800,Testing,0.9,Hyderabad,22-08-2021,Medium,Tactical
+DRDO-106,Zorawar LT,Armaments,5200,Ongoing,0.25,Ahmednagar,5/1/2023,High,Tactical
+DRDO-107,Rustom-II UAV,Aeronautics,2100,Delayed,0.65,Bangalore,14-02-2020,High,Strategic
+DRDO-108,Varunastra Torpedo,Naval,1500,Completed,1,Kochi,30-11-2019,Low,Tactical
+DRDO-109,BrahMos NG,Missiles,6000,Ongoing,0.3,Hyderabad,18-04-2022,High,Strategic
+DRDO-110,Rudram-III,Missiles,2800,Testing,0.75,Balasore,12/7/2022,Medium,Strategic
+DRDO-111,Tapas BH-201,Aeronautics,1800,Ongoing,0.8,Bangalore,9/9/2021,Medium,Tactical
+DRDO-112,WhAP 8x8 Vehicle,Armaments,950,Completed,1,Pune,15-01-2020,Low,Support
+DRDO-113,SMART System,Naval,2400,Testing,0.7,Balasore,25-03-2023,Medium,Tactical
+DRDO-114,Pralay Missile,Missiles,3300,Ongoing,0.45,Hyderabad,11/11/2022,High,Strategic
+DRDO-115,AMCA Stealth Fighter,Aeronautics,15000,Ongoing,0.15,Bangalore,1/1/2024,High,Strategic
+DRDO-116,Maareech ATDS,Naval,600,Completed,1,Kochi,12/5/2020,Low,Support
+DRDO-117,Nirbhay SLCM,Missiles,4100,Delayed,0.5,Balasore,10/8/2021,High,Tactical
+DRDO-118,ATAGS Howitzer,Armaments,3200,Testing,0.95,Pune,14-02-2021,Medium,Tactical
+DRDO-119,Netra AEW&C,Aeronautics,7500,Completed,1,Bangalore,5/6/2019,Low,Strategic
+DRDO-120,Shaurya Missile,Missiles,2900,Ongoing,0.6,Hyderabad,21-03-2022,Medium,Strategic
+DRDO-121,Helina Anti-Tank,Missiles,850,Testing,0.88,Jodhpur,19-09-2022,Medium,Tactical
+DRDO-122,Abhyas HEAT,Aeronautics,450,Completed,1,Balasore,30-10-2020,Low,Support
+DRDO-123,Arjun Mk-1A,Armaments,6600,Ongoing,0.75,Ahmednagar,12/1/2022,High,Tactical
+DRDO-124,Daksh Robot,Electronics,200,Completed,1,Pune,5/5/2020,Low,Support
+DRDO-125,Uttam AESA Radar,Electronics,1400,Testing,0.82,Bangalore,14-07-2022,Medium,Tactical
+DRDO-126,Astra Mk-2,Missiles,2700,Ongoing,0.35,Hyderabad,20-11-2023,High,Strategic
+DRDO-127,Mareech Decoy,Naval,350,Completed,1,Kochi,10/2/2021,Low,Support
+DRDO-128,Ghatak UCAV,Aeronautics,9000,Ongoing,0.2,Bangalore,15-05-2023,High,Strategic
+DRDO-129,K-4 SLBM,Missiles,5500,Testing,0.92,Visakhapatnam,1/9/2021,High,Strategic
+DRDO-130,Prahaar Missile,Missiles,1800,Completed,1,Balasore,12/3/2020,Low,Tactical
+DRDO-131,QRSAM System,Missiles,4200,Testing,0.8,Chandipur,14-06-2022,Medium,Tactical
+DRDO-132,VL-SRSAM,Naval,2100,Ongoing,0.65,Hyderabad,18-08-2022,Medium,Tactical
+DRDO-133,SWiFT Stealth,Aeronautics,3000,Testing,0.7,Bangalore,25-10-2022,High,Strategic
+DRDO-134,MPATGM,Armaments,750,Completed,1,Ahmednagar,12/2/2021,Low,Tactical
+DRDO-135,Nag Missile,Missiles,1100,Completed,1,Hyderabad,5/5/2020,Low,Tactical
+DRDO-136,AD-1 Interceptor,Missiles,7200,Testing,0.85,Balasore,15-01-2023,High,Strategic
+DRDO-137,XRSAM Project,Missiles,9500,Ongoing,0.1,Hyderabad,10/3/2024,High,Strategic
+DRDO-138,SAAW Bomb,Armaments,500,Completed,1,Bangalore,20-09-2021,Low,Support
+DRDO-139,Ushas Sonar,Naval,1300,Ongoing,0.45,Kochi,12/4/2022,Medium,Support
+DRDO-140,Himshakti EW,Electronics,2600,Testing,0.75,Dehradun,22-07-2022,Medium,Tactical
+DRDO-141,Arudhra Radar,Electronics,1900,Completed,1,Bangalore,15-08-2020,Low,Support
+DRDO-142,Agni-VI,Missiles,11000,Ongoing,0.25,Hyderabad,10/2/2024,High,Strategic
+DRDO-143,LCA Navy Mk2,Aeronautics,8000,Delayed,0.35,Bangalore,14-11-2021,High,Strategic
+DRDO-144,Takshak Missile,Missiles,4400,Ongoing,0.15,Hyderabad,1/1/2024,High,Strategic
+DRDO-145,Mission Shakti II,Missiles,5000,Ongoing,0.4,Balasore,15-05-2023,High,Strategic
+DRDO-146,Mountain Radar,Electronics,800,Testing,0.9,Dehradun,20-06-2022,Low,Support
+DRDO-147,Bio-Suit,Life Sciences,50,Completed,1,Gwalior,5/1/2021,Low,Support
+DRDO-148,Nirbhay ITCM,Missiles,2200,Testing,0.8,Balasore,12/3/2022,Medium,Tactical
+DRDO-149,P-75I AIP System,Naval,6000,Ongoing,0.5,Mumbai,18-09-2022,High,Strategic
+DRDO-150,Laser Weapon,Armaments,3500,Ongoing,0.2,Delhi,5/2/2024,High,Strategic
+DRDO-151,Dhruvastra,Missiles,900,Testing,0.95,Jodhpur,12/6/2022,Medium,Tactical
+DRDO-152,HTT-40 Engine,Aeronautics,1200,Completed,1,Bangalore,15-12-2020,Low,Tactical
+DRDO-153,Prachand Sensors,Electronics,1600,Ongoing,0.6,Bangalore,20-01-2023,Medium,Support
+DRDO-154,Advanced Torpedo,Naval,2900,Testing,0.72,Kochi,10/4/2022,Medium,Tactical
+DRDO-155,HSTDV Hypersonic,Missiles,7000,Testing,0.6,Hyderabad,15-08-2022,High,Strategic
+DRDO-156,S-Band Radar,Electronics,2300,Ongoing,0.4,Bangalore,1/11/2023,Medium,Tactical
+DRDO-157,Akash Prime,Missiles,3100,Completed,1,Chandipur,12/2/2021,Low,Strategic
+DRDO-158,Mounted Gun,Armaments,1800,Ongoing,0.3,Pune,14-05-2023,Medium,Tactical
+DRDO-159,Combat Drone,Aeronautics,5500,Delayed,0.45,Bangalore,20-09-2021,High,Strategic
+DRDO-160,Nayan Radar,Electronics,1100,Testing,0.88,Dehradun,15-12-2022,Low,Support
+DRDO-161,Sea-Based BMD,Missiles,8800,Ongoing,0.2,Visakhapatnam,10/1/2024,High,Strategic
+DRDO-162,Underwater Drone,Naval,4200,Ongoing,0.15,Kochi,5/3/2024,High,Strategic
+DRDO-163,Night Vision Goggles,Electronics,300,Completed,1,Dehradun,22-04-2021,Low,Support
+DRDO-164,Bullet Proof Jacket,Life Sciences,150,Completed,1,Kanpur,10/10/2021,Low,Support
+DRDO-165,Anti-Drone System,Electronics,2500,Testing,0.92,Delhi,18-11-2022,Medium,Tactical
+DRDO-166,Sudarshan LGB,Armaments,400,Completed,1,Bangalore,5/2/2021,Low,Tactical
+DRDO-167,Astra Mk-3,Missiles,5100,Ongoing,0.1,Hyderabad,15-04-2024,High,Strategic
+DRDO-168,Rudram-II,Missiles,2600,Testing,0.78,Balasore,12/6/2022,Medium,Strategic
+DRDO-169,UAV Launch Pad,Aeronautics,800,Completed,1,Chitradurga,10/9/2021,Low,Support
+DRDO-169,UAV Launch Pad,Aeronautics,800,Completed,1,Chitradurga,25-12-2022,Low,Support
+DRDO-170,Heavy Drop System,Armaments,600,Ongoing,0.55,Agra,25-12-2022,Low,Support
+DRDO-171,Agni-1P Deployment,Missiles,3200,Ongoing,0.65,Balasore,15-01-2022,High,Strategic
+DRDO-172,Kaveri Engine,Aeronautics,4100,Testing,0.45,Bangalore,20-03-2021,High,Strategic
+DRDO-173,Pinaka Guided,Armaments,1400,Ongoing,0.72,Pune,10/7/2023,Medium,Tactical
+DRDO-174,Varunastra Mk2,Naval,2200,Testing,0.35,Kochi,5/2/2024,Medium,Tactical
+DRDO-175,Akash-1S,Missiles,2500,Completed,1,Hyderabad,12/11/2020,Low,Strategic
+DRDO-176,Arjun Mk-2,Armaments,7800,Ongoing,0.2,Ahmednagar,25-08-2023,High,Tactical
+DRDO-177,TAPAS MALE UAV,Aeronautics,3100,Testing,0.82,Bangalore,14-05-2022,Medium,Strategic
+DRDO-178,P-75 AIP Prototype,Naval,5500,Ongoing,0.4,Mumbai,30-12-2021,High,Strategic
+DRDO-179,VL-SRSAM Deployment,Missiles,1800,Ongoing,0.55,Chandipur,18-06-2023,Medium,Tactical
+DRDO-180,Rudram-1 ARM,Missiles,2100,Completed,1,Balasore,1/1/2021,Low,Strategic
+DRDO-181,Smart Anti-Air Weapon,Armaments,950,Testing,0.9,Bangalore,22-09-2022,Medium,Tactical
+DRDO-182,Netra Mk-2 AEW&C,Aeronautics,8500,Ongoing,0.3,Bangalore,10/10/2023,High,Strategic
+DRDO-183,Maareech Upgrade,Naval,750,Ongoing,0.6,Visakhapatnam,5/3/2023,Low,Support
+DRDO-184,Prithvi-II,Missiles,1200,Completed,1,Hyderabad,15-02-2020,Low,Strategic
+DRDO-185,Zorawar Phase 2,Armaments,3800,Ongoing,0.15,Ahmednagar,12/4/2024,High,Tactical
+DRDO-186,Abhyas HEAT Batch 2,Aeronautics,600,Testing,0.95,Balasore,8/6/2022,Low,Support
+DRDO-187,Astra-IR Missile,Missiles,2900,Ongoing,0.48,Hyderabad,21-09-2023,Medium,Tactical
+DRDO-188,Ushas-2 Sonar,Naval,1100,Completed,1,Kochi,10/5/2021,Low,Support
+DRDO-189,Swathi Weapon Radar,Electronics,2300,Ongoing,0.8,Bangalore,14-07-2022,Medium,Tactical
+DRDO-190,Shaurya Block-II,Missiles,3400,Testing,0.7,Balasore,25-10-2022,Medium,Strategic
+DRDO-191,Daksh Scouter,Electronics,450,Ongoing,0.5,Pune,15-11-2023,Low,Support
+DRDO-192,Mission Shakti III,Missiles,6200,Ongoing,0.1,Balasore,1/1/2024,High,Strategic
+DRDO-193,LCA AF Mk1A,Aeronautics,9800,Completed,1,Bangalore,20-02-2021,Low,Strategic
+DRDO-194,SMART Torpedo,Naval,3000,Testing,0.85,Visakhapatnam,18-05-2022,Medium,Tactical
+DRDO-195,Prahaar ER,Missiles,1700,Ongoing,0.4,Hyderabad,5/9/2023,Medium,Tactical
+DRDO-196,WhAP Fire Control,Armaments,850,Testing,0.78,Pune,12/11/2022,Low,Support
+DRDO-197,Arudhra Medium Radar,Electronics,1500,Completed,1,Bangalore,14-12-2020,Low,Support
+DRDO-198,BrahMos Hypersonic,Missiles,12500,Ongoing,0.25,Hyderabad,30-03-2024,High,Strategic
+DRDO-199,Advanced Sonobuoy,Naval,500,Ongoing,0.3,Kochi,10/7/2023,Low,Support
+DRDO-200,Satellite Interceptor,Missiles,9000,Testing,0.92,Balasore,1/1/2024,High,Strategic
